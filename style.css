@@ -14,7 +14,7 @@ h1 {
     left: 120px;
     top:0 ;
     line-height: 80px;
-    background-image:url(images/logo3.png);
+    background-image:url(logo3.png);
     background-repeat: no-repeat;
     background-position:center ;
     background-size: 200px auto;
@@ -50,7 +50,7 @@ header a:hover {
     background-color:antiquewhite ;
     color: white;
     height: 85vh;
-    background-image: url(images/1.png);
+    background-image: url(1.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -86,4 +86,5 @@ header a:hover {
     align-items:center;
     font-size: 20px;
     line-height: 1.8em;
+
 }
